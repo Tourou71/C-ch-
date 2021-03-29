@@ -1,0 +1,7 @@
+Service is stopped at 3/29/2021 6:35:53 PM
+Notepad is running 3/29/2021 6:35:55 PM
+Service is started at 3/29/2021 6:35:55 PM
+Service is stopped at 3/29/2021 6:40:00 PM
+Notepad is running 3/29/2021 6:40:25 PM
+Service is started at 3/29/2021 6:40:25 PM
+Service is stopped at 3/29/2021 6:43:12 PM
